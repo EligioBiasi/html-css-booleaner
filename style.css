@@ -1,8 +1,11 @@
 .header{
     background-image:url('img/pattern.png');
     height: 180px;
-    background-color: rgb(39, 112, 230);
     width: 100%;
+}
+
+.lightblue{
+    background-color: rgb(39, 112, 230);
 }
 
 #logo{
@@ -23,4 +26,9 @@
 
 .image{
     margin-top: 20px;
+}
+
+.blue-bar{
+    background-color: blue;
+    color: white;
 }
